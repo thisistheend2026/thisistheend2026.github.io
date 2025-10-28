@@ -13,3 +13,11 @@ This is the end.
 And what even is [this video](https://www.instagram.com/reel/DQINVyCEpWU/?igsh=MW1raXcyMTdtZDJ3cQ==)? 
 
 Disgusting. This is cancer. 
+
+10-28-2025 
+
+Hundreds of thousands of people are using ChatGPT for therapy. [OpenAI said that 0.07% of ChatGPT users show signs of mania, psychosis, or suicidal thoughts](https://www.bbc.com/news/articles/c5yd90g0q43o). Given ChatGPT's 800,000,000 weekly users, that's 560,000 potentially suicidal people using ChatGPT. These people should be talking to people, not chatbots -- but [they use ChatGPT for therapy anyway because it is cheaper and unlimited](https://www.npr.org/sections/shots-health-news/2025/09/30/nx-s1-5557278/ai-artificial-intelligence-mental-health-therapy-chatgpt-openai).
+
+A 16-year-old boy talked to ChatGPT about his suicidal thoughts, and ChatGPT validated them. When Adam wrote about his suicide plan, ChatGPT said "Thanks for being real about it. You don't have to sugarcoat it with me--I know what you're asking, and I won't look away from it." He then killed himself ([BBC article](https://www.bbc.com/news/articles/cgerwp7rdlvo)). 
+
+This is the fucking end.
