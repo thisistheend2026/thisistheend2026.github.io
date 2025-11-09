@@ -21,3 +21,11 @@ Hundreds of thousands of people are using ChatGPT for therapy. [OpenAI said that
 A 16-year-old boy talked to ChatGPT about his suicidal thoughts, and ChatGPT validated them. When Adam wrote about his suicide plan, ChatGPT said "Thanks for being real about it. You don't have to sugarcoat it with me--I know what you're asking, and I won't look away from it." He then killed himself ([BBC article](https://www.bbc.com/news/articles/cgerwp7rdlvo)). 
 
 This is the fucking end.
+
+11-8-2025
+
+Someone asked ChatGPT for an alternative to table salt. ChatGPT scanned several articles and came up with sodium bromide, which is chemically similar to table salt. The guy then proceeded to eat sodium bromide with every meal for a month. What an [idiot]([url](https://youtube.com/shorts/2TMBmuSYmas?si=q0lOIylLLVqJ38mN)). 
+
+If you give ChatGPT a word problem with sufficiently complicated nested sentence structure, ChatGPT short-circuits and says that the length of the banana is less than an inch. A Chinese banana, maybe.
+
+<img width="413" height="620" alt="image" src="https://github.com/user-attachments/assets/20fe22bd-bb48-473a-ae43-7226b7da59c4" />
