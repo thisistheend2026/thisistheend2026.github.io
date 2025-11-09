@@ -24,7 +24,7 @@ This is the fucking end.
 
 11-8-2025
 
-Someone asked ChatGPT for an alternative to table salt. ChatGPT scanned several articles and came up with sodium bromide, which is chemically similar to table salt. The guy then proceeded to eat sodium bromide with every meal for a month. What an [idiot]([url](https://youtube.com/shorts/2TMBmuSYmas?si=q0lOIylLLVqJ38mN)). 
+Someone asked ChatGPT for an alternative to table salt. ChatGPT scanned several articles and came up with sodium bromide, which is chemically similar to table salt. The guy then proceeded to eat sodium bromide with every meal for a month. [What an idiot.](https://youtube.com/shorts/2TMBmuSYmas?si=q0lOIylLLVqJ38mN)
 
 If you give ChatGPT a word problem with sufficiently complicated nested sentence structure, ChatGPT short-circuits and says that the length of the banana is less than an inch. A Chinese banana, maybe.
 
