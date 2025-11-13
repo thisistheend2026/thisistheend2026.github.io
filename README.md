@@ -29,3 +29,12 @@ Someone asked ChatGPT for an alternative to table salt. ChatGPT scanned several 
 If you give ChatGPT a word problem with sufficiently complicated nested sentence structure, ChatGPT short-circuits and says that the length of the banana is less than an inch. A Chinese banana, maybe.
 
 <img width="413" height="620" alt="image" src="https://github.com/user-attachments/assets/20fe22bd-bb48-473a-ae43-7226b7da59c4" />
+
+11-13-2025
+
+How can we combat AI-generated peer review? Why, use AI to write the rebuttal letter, of course!
+<img width="521" height="362" alt="Screenshot 2025-11-13 at 12 14 42 PM" src="https://github.com/user-attachments/assets/54ea39db-17e7-4078-8d85-2caa57e6e771" />
+
+And how can we help undercited authors? Obviously, what you do is to write a diversity, equity, and inclusion statement explaining how you ensured diversity and inclusivity in your citations. You have to make sure that you are including citations from a diverse set of underrepresented groups. See ([this link]https://www.nature.com/articles/s44159-025-00497-z) for further information. 
+
+Man, getting published is hard enough, and now I have to worry about the race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status, ancestral hardship, institution, professional rank, amount of funding, number of students, number of past citations, projected number of citations, neighborhood crime rate, nearby sources of environmental pollution, current medical condition, research interests, social media presence, and physical weight of the authors I'm citing?
