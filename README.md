@@ -40,6 +40,9 @@ And how can we help undercited authors? Obviously, what you do is to write a div
 Man, getting published is hard enough, and now I have to worry about the race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status, ancestral hardship, institution, professional rank, amount of funding, number of students, number of past citations, projected number of citations, neighborhood crime rate, nearby sources of environmental pollution, current medical condition, research interests, social media presence, and physical weight of the authors I'm citing?
 
 This is the end.
+
 There's R.E.M.'s song [It's The End Of The World](https://www.youtube.com/watch?v=Z0GFRcFm-aY).
+
 There's a T.V. series [The End of the Fucking World](https://en.wikipedia.org/wiki/The_End_of_the_F***ing_World).
+
 There's a videogame [The Wonderful End of the World](https://store.steampowered.com/app/15500/The_Wonderful_End_of_the_World/).
